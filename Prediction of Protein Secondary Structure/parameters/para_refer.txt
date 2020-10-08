@@ -1,0 +1,18 @@
+#设定参数
+#输出层
+m_OJieV=1 #截距参数
+m_OXingV=1 #形状参数
+m_OShouV=1 #收敛参数
+
+
+#隐含层
+m_YJieV=1 #截距参数
+m_YXingV=1 #形状参数
+m_YShouV=1 #收敛参数
+
+
+#其他
+m_HLUnitNum=10 #隐含神经元个数
+m_RFrameWidth=8 #窗宽
+seed=10 #随机种子
+count=[0]
